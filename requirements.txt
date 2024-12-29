@@ -1,0 +1,7 @@
+streamlit
+langchain_community
+llama-index
+llama-index-llms-ollama
+chromadb
+duckdb
+sentence-transformers
